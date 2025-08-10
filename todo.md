@@ -1,0 +1,6 @@
+- [ ] add book and rating models
+- [ ] connect to postgres
+- [ ] add migrations
+- [ ] create env checks with pydantic
+- [ ] move dn url to .env
+- [ ] use safe envs for db connection
